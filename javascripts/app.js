@@ -118,5 +118,5 @@ function listOfCommands(command) {
   }
   console.log("Travel log: " + rover.travelLog);
 }
-listOfCommands("fbrff");
+listOfCommands("fbrfffff");
 
